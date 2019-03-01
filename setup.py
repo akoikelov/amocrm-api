@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 requires = [
-    'requests-client>=0.0.3',
+    'requests-client==0.0.5',
     'multidict',
 ]
 
